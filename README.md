@@ -24,3 +24,8 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 **Web Site URL**
 https://main--zippy-trifle-0600c8.netlify.app/
+
+**Screen Shots of the website**
+<img width="1512" alt="Screenshot 2023-12-16 at 01 09 24" src="https://github.com/Hirankavindu/AT-Digital/assets/97301123/43f5d504-e99f-4d32-b787-d46183581cbf">
+<img width="1512" alt="Screenshot 2023-12-16 at 01 09 32" src="https://github.com/Hirankavindu/AT-Digital/assets/97301123/dd8990ca-ff60-4061-9e2f-1c0f2b758d3e">
+<img width="1512" alt="Screenshot 2023-12-16 at 01 09 39" src="https://github.com/Hirankavindu/AT-Digital/assets/97301123/9af993ae-3f9d-464c-8c9f-6fd7a2632c03">
