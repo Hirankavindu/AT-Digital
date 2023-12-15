@@ -35,7 +35,7 @@ const variants1 = {
 
 function Section1() {
   return (
-    <div className="flex flex-row items-center justify-center gap-16 py-12 px-44 max-[1200px]:px-5 max-[768px]:px-10 max-[680px]:px-5 max-[375px]:flex-col">
+    <div className="flex flex-row items-center justify-center gap-16 py-12 px-44 max-[1200px]:px-5 max-[768px]:px-10 max-[680px]:px-5 max-[375px]:flex-col max-[450px]:flex-col">
       <motion.div
         className="w-[414px] h-[414px] bg-white relative max-[1200px]:h-[346px] max-[1200px]:w-[346px] max-[1024px]:w-[300px] max-[1024px]:h-[300px] max-[768px]:h-[275px] max-[768px]:w-[275px] max-[680px]:h-[200px] max-[680px]:w-[200px] max-[375px]:h-[275px] max-[375px]:w-[275px] "
         variants={variants1}
@@ -54,7 +54,7 @@ function Section1() {
         {" "}
         {/* Added margin for spacing */}
         <motion.h1
-          className="text-[#6B3CC9] font-bold text-[27px] max-[680px]:text-[25px] max-[375px]:text-center"
+          className="text-[#6B3CC9] font-bold text-[27px] max-[680px]:text-[25px] max-[375px]:text-center max-[450px]:text-center"
           variants={variants1}
           initial="initial"
           whileInView="animate"
@@ -62,7 +62,7 @@ function Section1() {
           Web & Mobile App Development
         </motion.h1>
         <motion.p
-          className="w-[542px] pt-5 text-base max-[768px]:w-[393px] max-[680px]:w-[300px] max-[375px]:text-center"
+          className="w-[542px] pt-5 text-base max-[768px]:w-[393px] max-[680px]:w-[300px] max-[375px]:text-center max-[450px]:text-center"
           variants={variants1}
           initial="initial"
           whileInView="animate"
@@ -73,7 +73,7 @@ function Section1() {
           customers who interact with your business online.
         </motion.p>
         <motion.div
-          className="mt-3 flex max-[375px]:items-center max-[375px]:justify-center"
+          className="mt-3 flex max-[375px]:items-center max-[375px]:justify-center max-[450px]:items-center max-[450px]:justify-center"
           variants={variants1}
           initial="initial"
           whileInView="animate"

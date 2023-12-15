@@ -32,7 +32,7 @@ function Hero() {
           }}
         ></div> */}
         <div
-          className=" relative h-screen w-full bg-cover bg-no-repeat bg-center max-[768px]:bg-auto max-[768px]:bg-top  max-[680px]:bg-auto max-[680px]:bg-top max-[680px]:w-full max-[680px]:h-screen max-[375px]:bg-auto max-[375px]:bg-top max-[375px]:w-full max-[375px]:h-screen"
+          className=" relative h-screen w-full bg-cover bg-no-repeat bg-center max-[768px]:bg-auto max-[768px]:bg-top  max-[680px]:bg-auto max-[680px]:bg-top max-[680px]:w-full max-[680px]:h-screen max-[375px]:bg-auto max-[375px]:bg-top max-[375px]:w-full max-[375px]:h-screen max-[450px]:bg-auto max-[450px]:bg-top max-[450px]:w-full max-[450px]:h-screen"
           style={{
             backgroundImage: "url('images/heroImage.png')",
             filter: "brightness(98%)", // Set the height to 100vh for full screen coverage
@@ -49,7 +49,7 @@ function Hero() {
           <div className="absolute inset-0 bg-gradient-to-r from-[#4DCA79] to-[#1CBDDD] flex items-center justify-center">
             <div className="mb-16 w-[556px] h-[192px]">
               <motion.h1
-                className="text-5xl font-bold text-white max-[375px]:text-4xl max-[375px]:pl-3"
+                className="text-5xl font-bold text-white max-[375px]:text-4xl max-[375px]:pl-3 max-[450px]:text-3xl max-[450px]:pl-3"
                 variants={variants1}
                 initial="initial"
                 whileInView="animate"
@@ -59,7 +59,7 @@ function Hero() {
               </motion.h1>
               {/* Button */}
               <motion.div
-                className="mt-3 max-[375px]:pl-3"
+                className="mt-3 max-[375px]:pl-3 max-[450px]:pl-3"
                 variants={variants1}
                 initial="initial"
                 whileInView="animate"

@@ -13,14 +13,14 @@ function Footer() {
                 className="h-{36px} w-{238.89px} pb-6"
               />
             </a>
-            <div className="text-white text-base font-normal w-[430px] h-[57px] hover:text-orange-400 cursor-pointer max-[375px]:text-base max-[375px]:w-[335px] max-[375px]:h-[76px]">
+            <div className="text-white text-base font-normal w-[430px] h-[57px] hover:text-orange-400 cursor-pointer max-[375px]:text-base max-[375px]:w-[335px] max-[375px]:h-[76px] max-[450px]:text-base max-[450px]:w-[335px] max-[450px]:h-[76px]">
               Your goal is our target. Not anything in between. We use online
               marketing platforms and tools to achieve single objective - your
               business results
             </div>
           </ul>
         </div>
-        <section className=" grid  grid-cols-2 max-[768px]:grid-cols-2 max-[375px]:grid-cols-1">
+        <section className=" grid  grid-cols-2 max-[768px]:grid-cols-2 max-[375px]:grid-cols-1 max-[450px]:grid-cols-1">
           <div className="pt-5 mr-24 max-[1200px]:mr-16 max-[1024px]:mr-12 max-[768px]:mt-10">
             <ul>
               <p className="text-white font-semibold text-[21px] pb-4">
@@ -46,7 +46,7 @@ function Footer() {
               </li>
             </ul>
           </div>
-          <div className="pt-5 mr-5 ml-10 max-[768px]:mt-10 max-[768px]:ml-10 max-[375px]:ml-0 max-[375px]:pt-0">
+          <div className="pt-5 mr-5 ml-10 max-[768px]:mt-10 max-[768px]:ml-10 max-[375px]:ml-0 max-[375px]:pt-0 max-[450px]:ml-0 max-[450px]:pt-0">
             <ul>
               <p className="text-white font-semibold text-[21px] pb-4">
                 Our Services
