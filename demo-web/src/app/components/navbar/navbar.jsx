@@ -19,7 +19,7 @@ function Navbar() {
                   <img
                     src="/WhiteLogo.png"
                     alt="Logo"
-                    className="h-{25px} w-{238.89px}"
+                    className="h-{25px} w-{238.89px} max-[375px]:pl-3"
                   />
                 </a>
               </div>
