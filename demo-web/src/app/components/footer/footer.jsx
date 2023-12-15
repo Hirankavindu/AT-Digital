@@ -13,7 +13,7 @@ function Footer() {
                 className="h-{36px} w-{238.89px} pb-6"
               />
             </a>
-            <div className="text-white text-base font-normal w-[430px] h-[57px] hover:text-yellow-200 cursor-pointer max-[375px]:text-base max-[375px]:w-[335px] max-[375px]:h-[76px]">
+            <div className="text-white text-base font-normal w-[430px] h-[57px] hover:text-orange-400 cursor-pointer max-[375px]:text-base max-[375px]:w-[335px] max-[375px]:h-[76px]">
               Your goal is our target. Not anything in between. We use online
               marketing platforms and tools to achieve single objective - your
               business results
@@ -26,22 +26,22 @@ function Footer() {
               <p className="text-white font-semibold text-[21px] pb-4">
                 Our Technologies
               </p>
-              <li className="text-white text-md pb-2 font-normal hover:text-blue-600 cursor-pointer">
+              <li className="text-white text-md pb-2 font-normal hover:text-orange-400 cursor-pointer">
                 React Js
               </li>
-              <li className="text-white text-sm pb-2 font-normal hover:text-blue-600 cursor-pointer">
+              <li className="text-white text-sm pb-2 font-normal hover:text-orange-400 cursor-pointer">
                 Gatsby
               </li>
-              <li className="text-white text-sm pb-2 font-normal hover:text-blue-600 cursor-pointer">
+              <li className="text-white text-sm pb-2 font-normal hover:text-orange-400 cursor-pointer">
                 NextJs
               </li>
-              <li className="text-white text-sm pb-2 font-normal hover:text-blue-600 cursor-pointer">
+              <li className="text-white text-sm pb-2 font-normal hover:text-orange-400 cursor-pointer">
                 NodeJs
               </li>
-              <li className="text-white text-sm pb-2 font-normal hover:text-blue-600 cursor-pointer">
+              <li className="text-white text-sm pb-2 font-normal hover:text-orange-400 cursor-pointer">
                 GraphQL
               </li>
-              <li className="text-white text-sm pb-2 font-normal hover:text-blue-600 cursor-pointer">
+              <li className="text-white text-sm pb-2 font-normal hover:text-orange-400 cursor-pointer">
                 Laravel
               </li>
             </ul>
@@ -51,19 +51,19 @@ function Footer() {
               <p className="text-white font-semibold text-[21px] pb-4">
                 Our Services
               </p>
-              <li className="text-white text-sm pb-2 font-normal hover:text-blue-400 cursor-pointer">
+              <li className="text-white text-sm pb-2 font-normal hover:text-orange-400 cursor-pointer">
                 social Media Marketing
               </li>
-              <li className="text-white text-sm pb-2 font-normal hover:text-blue-400 cursor-pointer">
+              <li className="text-white text-sm pb-2 font-normal hover:text-orange-400 cursor-pointer">
                 Web & Mobile App Development
               </li>
-              <li className="text-white text-sm pb-2 font-normal hover:text-blue-400 cursor-pointer">
+              <li className="text-white text-sm pb-2 font-normal hover:text-orange-400 cursor-pointer">
                 Data & Analytics
               </li>
-              <li className="text-white text-sm pb-2 font-normal hover:text-blue-400 cursor-pointer">
+              <li className="text-white text-sm pb-2 font-normal hover:text-orange-400 cursor-pointer">
                 Google Marketing Solution
               </li>
-              <li className="text-white text-sm pb-2 font-normal hover:text-blue-400 cursor-pointer">
+              <li className="text-white text-sm pb-2 font-normal hover:text-orange-400 cursor-pointer">
                 Search Engine Optimization
               </li>
             </ul>
